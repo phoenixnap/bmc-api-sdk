@@ -1,2 +1,2 @@
 # bmc-api-sdk
-SDK for BMC API
+SDK for BMC API.
